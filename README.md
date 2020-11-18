@@ -4,7 +4,7 @@ Horiseon Marketing Agency
 ## Application Features
 
 ```
-The application is optimized for Search Engines
+The application is optimized for Search Engines and is best viewwed in Google Chrome
 The navigation bar allows the user to jump to specific sections of the content
 The webage illustrates some of the key offerings of Horiseon Marketing Agency
 
