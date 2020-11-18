@@ -1,5 +1,15 @@
-# MarketingAgencyAS
-Horiseon Marketing Agency 
+# Horiseon Marketing Agency
+
+```
+In this code refactor project the following changes were implemented:
+
+> Added reset.css file
+> Fixed the references from the Navigation bar 
+> Replace <div> tags with approproate semantic elements
+> Removed class redundancies and consolidates identfical classes
+> Added comments to css file
+
+```
 
 ## Application Features
 
@@ -13,11 +23,8 @@ The webage illustrates some of the key offerings of Horiseon Marketing Agency
 
 The following image shows the web application's appearance:
 
-![marketing agency services demo](../Assets/0horiseon-marketing-agency-demo.png)
+![horiseon marketing agency demo](../Assets/0horiseon-marketing-agency-demo.png)
 
-## Application URL
-
-* The Horiseon Marketing Agency application is hosted in Github repository: MarketingAgencyAS application is [HMarketing Agency](https://asheth22.github.io/MarketingAgencyAS/)
 
 ## Application URL
 
