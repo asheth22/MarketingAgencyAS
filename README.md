@@ -23,7 +23,7 @@ The webage illustrates some of the key offerings of Horiseon Marketing Agency
 
 The following image shows the web application's appearance:
 
-![horiseon marketing agency demo](../Assets/0horiseon-marketing-agency-demo.png)
+![horiseon marketing agency demo](https://github.com/asheth22/horiseon-marketing-services-as/blob/main/Assets/horiseon-marketing-agency-demo.png)
 
 
 ## Application URL
