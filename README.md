@@ -28,7 +28,7 @@ The following image shows the web application's appearance:
 
 ## Application URL
 
-* The URL of the deployed application is [HMarketing Agency](https://asheth22.github.io/horiseon-marketing-services-as/)
+* The URL of the deployed application is [HMarketing Agency](https://asheth22.github.io/horiseon-marketing-services-as/Develop/index.html)
 
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
